@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.Fernandocengiz.software
+
+# Sitemaps
+Sitemap: https://www.Fernandocengiz.software/sitemap.xml

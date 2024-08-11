@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "description": "Fernando Furbringer personal website and portfolio"
+  },
+  "Navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "particles-disabled": "Particles Disabled",
+    "particles-enabled": "Particles Enabled"
+  },
+  "Home": {
+    "title": "Hello World, It's Fernando!",
+    "subtitle": "I'm a Full Stack Web Developer \\(o_o)/",
+    "projects": "See my projects"
+  },
+  "Projects": {
+    "title": "Project Previews",
+    "metadata": {
+      "title": "Project Previews",
+      "description": "Fernando Furbringer project previews"
+    }
+  },
+  "Project": {
+    "repo-link": {
+      "visit": "Source Code",
+      "contribute": "Contribute to this project"
+    },
+    "live-link": "Live Demo",
+    "tech-stack": "Tech Stack",
+    "contributors": "Contributors",
+    "status": {
+      "completed": "Completed",
+      "in-progress": "In Progress",
+      "planned": "Planned"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "link": "Go to Home Page"
+  },
+  "ProjectNotFoundPage": {
+    "title": "Project Not Found",
+    "link": "Go to Projects Page"
+  },
+  "About": {
+    "metadata": {
+      "title": "About",
+      "description": "About page containing contact information and a short bio."
+    },
+    "adventure":  {
+      "title": "My Journey",
+      "p1": "I have been working in development since August 2009, primarily focusing on Genexus. Throughout my career, I have worked with various languages in parallel, such as Java, C#, and .NET Framework.",
+      "p2": "My experience spans multiple areas, including medical systems, health insurance, ERP, accounting, consortiums, client analysis (CRIVO), integrations with telephony systems for call centers, and currently, I am working with RFID devices.",
+      "p3": "Currently, I am working with technologies like React, NextJS, React Native, and databases such as MongoDB and PostgreSQL. I have a strong aptitude for acquiring knowledge and understanding client needs. I get along well with my colleagues, am very communicative, and frequently receive praise for my ideas, whether for improvements or new implementations.",
+      "p4": "Throughout my journey, I have made mistakes and will continue to do so, but I have learned that the most important thing is not to fear making mistakes. What we should truly fear is the fear of making mistakes, which means we might not be enjoying what we do."
+    },
+    "education": {
+      "title": "My Education"
+    },
+    "github-contributions": {
+      "title": "My GitHub Contributions"
+    },
+    "taken-courses": {
+      "title": "Taken Courses",
+      "course-page": "Course Page"
+    }
+  }
+}

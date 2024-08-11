@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "description": "O site pessoal e portfólio de Fernando Furbringer."
+  },
+  "Navbar": {
+    "home": "Início",
+    "projects": "Projetos",
+    "about": "Sobre",
+    "particles-disabled": "Desativar partículas",
+    "particles-enabled": "Ativar partículas"
+  },
+  "Home": {
+    "title": "Olá Mundo, Eu Sou Fernando!",
+    "subtitle": "Sou um desenvolvedor web \\(o_o)/",
+    "projects": "Veja meus projetos"
+  },
+  "Projects": {
+    "title": "Pré-visualizações de Projetos",
+    "metadata": {
+      "title": "Pré-visualizações de Projetos",
+      "description": "Pré-visualizações de projetos de Fernando Furbringer"
+    }
+  },
+  "Project": {
+    "repo-link": {
+      "visit": "Ver no GitHub",
+      "contribute": "Contribua"
+    },
+    "live-link": "Abrir Demonstração",
+    "tech-stack": "Tecnologias Utilizadas",
+    "contributors": "Contribuidores",
+    "status": {
+      "completed": "Concluído",
+      "in-progress": "Em andamento",
+      "planned": "Planejado"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Página Não Encontrada!",
+    "link": "Voltar para a página inicial"
+  },
+  "ProjectNotFoundPage": {
+    "title": "Projeto Não Encontrado!",
+    "link": "Voltar para a página de projetos"
+  },
+  "About": {
+    "metadata": {
+      "title": "Sobre",
+      "description": "Uma breve biografia e habilidades de Fernando Furbringer."
+    },
+    "adventure": {
+      "title": "Minha Jornada",
+      "p1": "Trabalho com desenvolvimento desde agosto de 2009, com foco principal em Genexus. Ao longo da minha carreira, trabalhei com diversas linguagens em paralelo, como Java, C# e .NET Framework.",
+      "p2": "Minha experiência abrange diversas áreas, incluindo sistemas médicos, planos de saúde, ERP, contabilidade, consórcio, análise de clientes (CRIVO), integrações com sistemas de telefonia para call centers, e atualmente, estou trabalhando com dispositivos RFID.",
+      "p3": "Atualmente, estou trabalhando com tecnologias como React, NextJS, React Native, e bancos de dados MongoDB e PostgreSQL. Tenho uma grande facilidade para adquirir conhecimento e entender as necessidades dos clientes. Me dou bem com meus colegas, sou muito comunicativo e frequentemente recebo elogios pelas minhas ideias, tanto para melhorias quanto para novas implementações.",
+      "p4": "Ao longo da minha jornada, cometi erros e continuo a cometer, mas aprendi que o mais importante é não ter medo de errar. O que realmente devemos temer é o medo de cometer erros, o que significa que podemos não estar gostando do que fazemos."
+    },
+    "education": {
+      "title": "Minha Educação"
+    },
+    "github-contributions": {
+      "title": "Minhas Contribuições no GitHub"
+    },
+    "taken-courses": {
+      "title": "Cursos Concluídos",
+      "course-page": "Página dos Cursos"
+    }
+  }
+}
