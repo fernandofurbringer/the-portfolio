@@ -1,6 +1,46 @@
 const projects: Project[] = [
   {
     title: {
+      en: "Grade distribution",
+      br: "Rateio de notas",
+    },
+    endpoint: "Draw",
+    images: [
+      {
+        src: "/pics/projects/rateio-notas/rateio-notas_1.png",
+        alt: "Draw",
+      },
+      {
+        src: "/pics/projects/rateio-notas/rateio-notas_2.png",
+        alt: "Draw",
+      },   
+    ],
+    description: {
+      en: "System developed to correctly divide the invoices issued by each partner between partners, correctly separating them according to the percentage of each partner. The system generates the CSV file to be sent to the Brazilian government's invoice issuing software.",
+      br: "Sistema desenvolvido para fazer a divisão correta entre os socios para separar as notas fiscais emitidas por cada um dos sócios de maneira correta conforme o percentual de cada um deles. O sistema gera o csv para ser enviado para o software de emissão de notas do governo Brasileiro.",
+    },
+    repoLink: "",
+    demoLink: "",
+
+    status: "completed",
+    techStack: [
+      { name: "React", url: "https://github.com/facebook/react" },
+      { name: "Next.js", url: "https://nextjs.org/" },
+      { name: "Typescript", url: "https://www.typescriptlang.org/" },
+      {
+        name: "JavaScript",
+        url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      },
+      {
+        name: "Supabase",
+        url: "https://supabase.com/",
+      },
+
+    ],
+  },
+
+  {
+    title: {
       en: "Online Raffle System",
       br: "Projeto de Sorteio Online",
     },

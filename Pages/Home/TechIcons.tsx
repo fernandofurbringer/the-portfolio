@@ -11,6 +11,8 @@ import mongodb from "@/public/svgs/mongodb.svg";
 import tailwind from "@/public/svgs/tailwind.svg";
 import javascript from "@/public/svgs/javascript.svg";
 import genexus from "@/public/svgs/gx.svg";
+import golang from "@/public/svgs/go.svg";
+import python from "@/public/svgs/python.svg";
 
 export default function TechIcons() {
   return (
@@ -89,6 +91,20 @@ export default function TechIcons() {
       <Image
         alt="TailwindCSS Icon"
         src={tailwind}
+        width={300}
+        height={100}
+        className="w-max-w w-full"
+      />
+      <Image
+        alt="TailwindCSS Icon"
+        src={golang}
+        width={40}
+        height={40}
+        //className="w-max-w w-full"
+      />
+      <Image
+        alt="TailwindCSS Icon"
+        src={python}
         width={300}
         height={100}
         className="w-max-w w-full"
